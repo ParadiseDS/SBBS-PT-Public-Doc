@@ -1,0 +1,88 @@
+[b][color=Red][size=4][attach]2bf5d8910494c2134c3358f63d1d8d1c[/attach][/size][/color][/b]
+[b][color=red][size=5]虎踞龙蟠PT 有RSS订阅自动下载的功能，在此把此功能介绍给大家：[/size][/color][/b]
+[color=blue][size=4]首先进入PT站，在PT站顶部右侧有RSS订阅图标，如下图示：
+ [attach]a8bc1d6a38b66f9ac9f4fbeea39763d3[/attach]
+点击图标，就会进入RSS订阅设置页面，RSS订阅分类和本站资源分类相同：
+ [attach]e69fa173bb3b7add0f26c2bbc84db389[/attach]
+下面就到了最关键的步骤（其实也简单。。。。。。。）：
+依据个人爱好设置想要自动下载的资源，本文以《中国好声音》为例，
+首先确定《中国好声音》属于大陆综艺节目，那么就勾选大陆综艺图标：
+ [attach]b6cb6abd0273e8689dcdfa1fd56abef6[/attach]
+然后是媒介、编码的选择，本站影视剧、综艺等资源的媒介一般都是Encode，编码都是H.264，所以这两项可以不用设置。
+分辨率就依据个人爱好设置，本文设置只下载720P的资源，那么选定720P：[/size][/color]
+
+ [attach]b4bf0f5832717173a78c5d8b9986a5e5[/attach]
+[b][color=Red][size=5]到此为止RSS订阅已经设置为订阅分辨率为720P的大陆综艺资源（想要下载其他资源的可参考设置）。[/size][/color][/b]
+
+[color=blue][size=4]项目标题格式默认选择标题，表示下面设置的关键词只要与标题匹配就自动下载。
+当然也可以选择其他，不过要与下面的关键词对应：
+标题对应英文名，关键词为：The Voice of China；
+副标题对应中文名，关键词为：中国好声音；
+发布者对应发布者的本站ID名。
+
+每页条数可以选择10、20、30、40、50，依个人设置。本文设置为10，即从初始设置起，自动订阅10个此类资源。
+
+关键词设置为：The Voice of China，匹配模式为“准确”。
+匹配模式为“或”，代表订阅标题中出现“The”、“Voice”、“of”、“China”其中之一的的资源；
+匹配模式为“和”，代表订阅标题中出现全部关键词的资源，而且关键词的顺序并不影响订阅。。。[/size][/color]
+
+[b][color=Red][size=5]在此希望各位站友在发布资源时按照命名规则设置主副标题！！！！！[/size][/color][/b]
+ [attach]2997343fae695a60a38b2f5ec8a50c87[/attach]
+
+[color=Blue][size=4]RSS设置为自动订阅大陆综艺节目《中国好声音》的资源，订阅栏内每次显示10个相关资源。
+
+点击生成RSS链接：
+[attach]d6bbb4076799c813cedd76ad45584d6a[/attach]
+复制“你可以在支持RSS订阅功能的BT客户端（如uTorrent）使用以下URL：”的链接，打开UT，右击RSS订阅按钮，选择添加RSS订阅：
+[attach]0acebd4d747ffb434ed19164480d39f7[/attach]
+订阅链接会自动粘贴，可自定义别名，本文为“SBBS PT”
+勾选“自动下载在订阅中发布的所有资源”
+[attach]b6c402363e16a38c20753e3de3893a4c[/attach]
+点击确定。
+
+
+此时UT中出现“SBBS  PT”的订阅，而且已经自动下载10个相关资源：
+[attach]48b6f96856480b7d569033a621238952[/attach]
+右击订阅按钮，选择“RSS订阅”，出现如下窗口：
+可以设置下载保存位置等等，依据个人爱好！
+ [attach]92af68812aef60392531f10221e24980[/attach]
+
+至此RSS订阅设置完毕。
+
+可参考设置其他类别资源的下载。[/size][/color]
+
+[color=red][size=5][b]
+====================================
+更新部分：通过统一的rss链接下载自己想要的资源[/b]
+[/size][/color]
+[color=Blue][size=4]
+[attach]4ed1da653c1bbf8a1a968d33885a3870[/attach]
+直接点击生成RSS
+[attach]7326b8f41b851c9b28ed850d4d68d2ec[/attach]
+复制第二行url链接。打开utorrent添加rss订阅
+[attach]76c0a833c0d4df522c853be8e466a502[/attach]
+[attach]fc58d2e177693e48956a01ff9c753078[/attach]
+参考如上图方式填写。需要注意的是：订阅区域要选择【不自动下载所有项目】
+[attach]7cd0b71763584c80f5c1b2419af466fa[/attach]
+此时rss中出现的就是所有类型的资源了。
+[attach]c16252f64808bcb2d8417c39d3b53f4a[/attach]
+右击rss图标，点击【RSS订阅】
+[attach]804cdb5d0ba62fe26c8bc44d9c5449b9[/attach]
+此时如果需要订阅美剧《生活大爆炸》
+点击左下角【添加】
+[attach]066fd51b67fe9bd63486330eb5c55acf[/attach]
+这里就实现了自动订阅含有关键词The?Big?Bang?Theory，画质为720p的资源。
+如果你对网络压制类型资源无感，可以在排除第二栏加入：WEB-DL关键词。
+如果你对某个制作组无感，也可以进行类似的填写。
+订阅源可以选择全部，也可以只选择sbbs pt。
+红圈处选择打勾，防止多个rss订阅重复下载资源。
+点击【关闭】完成订阅。
+[/size][/color]
+[color=red][size=4]
+这样做有什么好处？
+[/size][/color]
+[color=blue][size=4]
+[*]无需重新生成rss订阅地址。通过配置ut就可以实现高效的定制。
+[*]本站的美剧自动更新速度属于教育网前列，G网带宽，速度有保证。
+[*]通过rss订阅不会错过6小时free时刻，还可以蹭到不少上传流量。
+[/size][/color]

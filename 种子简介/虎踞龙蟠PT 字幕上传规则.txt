@@ -1,0 +1,67 @@
+[size=3][color=DarkOrchid][b][quote]最新更新（2012-08-26）
+1. 请使用字幕上传页面里的“标题”栏，将字幕命名为规定模式（即各单词之间除连接制作组的"-"和语言类标识之前的"."外，其余单词之间一律不许加"."）。
+
+举例：若电影文件名为“Memories of Murder 2003 720p BluRay x264 DTS-WiKi”
+          下载到的字幕名为“Memories.of.Murder.2003.720p.BluRay.x264.DTS-WiKi.chs”
+那么上传字幕文件时，请在“标题“内填写电影文件名（必要时在后面添加".chs&eng或者.cht&eng），规范命名，方便搜索。
+如图所示：
+[attach]854bf63cdbaa99f636e12136ce4ef9d1[/attach]
+
+2. 除双语字幕外，其他单语种字幕上传时，可以不加最后的语种标示，只需要选择对应的国旗即可。
+
+举例：若需上传简体中文字幕”Memories.of.Murder.2003.720p.BluRay.x264.DTS-WiKi.chs“
+现在只需在标题内填写”Memories of Murder 2003 720p BluRay x264 DTS-WiKi“，然后选择对应的[attach]ffc3427c7dd70c55e06cae735345e4d2[/attach] 即可。但是双语字幕仍需添加后边的语言后缀，具体介绍见下方。
+
+3. 本命名规则暂不适用于动漫类作品字幕。[/quote][/b][/color][/size]
+
+
+
+[size=3][color=Red][b]
+1、字幕显示文件名必须和所对应的资源种子的英文主标题相同(具体见下方蓝色字体)，在文件名后必须标记语种标识符 (例如，chs/cht/eng/chs&eng/cht&eng等)，文件名后缀允许为srt或ass/ssa格式。如果你上传的字幕是Vobsub格式(idx+sub)，请打包为zip或rar后再上传。“标题” 栏必须按照对应影视种子的英文标题填写(字幕文件名与种子文件名相同时可不写)。“语言类”选择为对应的语种，对于双语同显字幕应选择为"Other"。
+
+2、原则上，相同版本影片的字幕不允许重复上传，且每种语言只能上传一个字幕，以下情况除外：
+
+第一种情况: 若首传字幕有明显的质量问题，可以用其他PROPER字幕来替代，上传的字幕的“标题”后面要标注“[PROPER]”(例如: “Heroes S03E20 720p HDTV X264-DIMENSION[PROPER]”)；
+
+第二种情况: 无论首传字幕是否有问题，若有对应的R3字幕，则可以上传该版本的R3字幕，上传字幕的 “标题”后面要标注“[R3]”(例如:  “Heroes S03E20 720p HDTV X264-DIMENSION[R3]”)，如果对应种子视频包含有导评音轨，那么允许上传对应的导评字幕，在标题后面加[comment]，“语言” 栏选择相应的语种。字幕管理人员只会删除有质量问题的首传字幕。
+
+3、上传字幕前请先验证时间轴的准确性，以及内容是否吻合或缺失(不含歌词)，经查明或举报，整个字幕的时间轴超过30%的部分误差在0.3秒以上的(人在观看电影时可明显感觉出来)，可证实为时间轴不合格，字幕将被直接删除。
+
+4、对于影视合集字幕文件，上传者必须搜集完整方可打包上传，否则将被直接删除。
+
+5、[size=4]上传字幕必须符合规则下面例举的命名方式，否则将被直接删除。[/size]对于恶意(指多次)上传与影片不匹配、时间轴严重不准(误差>2秒)或多次上传重复字幕的ID，将直接给予帐号警告，严重者ban。[color=Red][/b]
+
+[color=Blue][b]
+对于剧集或电影的字幕文件，可直接上传对应语种的字幕文件。
+            
+情况一：剧集或电影的种子标题为：House S03E20 720p HDTV X264-DIMENSION
+              剧集或电影的视频文件标题为：House S03E20 720p HDTV X264-DIMENSION.mkv
+那么
+中文简体字幕命名为 House S03E20 720p HDTV X264-DIMENSION.chs     语言选择：简体中文
+中文繁体字幕命名为 House S03E20 720p HDTV X264-DIMENSION.cht     语言选择：繁体中文
+英文字幕命名为     House S03E20 720p HDTV X264-DIMENSION.eng     语言选择：English
+简体中英字幕命名为 House S03E20 720p HDTV X264-DIMENSION.chs&eng     语言选择：Other
+繁体中英字幕命名为 House S03E20 720p HDTV X264-DIMENSION.cht&eng     语言选择：Other
+
+情况二：剧集或电影的种子标题为：Happy Feet Two 2011 720p BluRay x264-Felony
+              剧集或电影的视频文件标题为：f-happyfeettwo720.mkv
+
+那么
+字幕的标题可以命名为 f-happyfeettwo720.chs/cht/eng/chs&eng/cht&eng 
+但必须在“标题”处将字幕的文件名改为：Happy Feet Two 2011 720p BluRay x264-Felony.chs/cht/eng/chs&eng/cht&eng 
+
+或者也可以将字幕标题直接命名为Happy Feet Two 2011 720p BluRay x264-Felony.chs/cht/eng/chs&eng/cht&eng 此时无须在“标题”栏处再做修改。[color=Blue][/b]
+
+[color=Black][b]备注：
+1、本规则从2012年5月9日开始执行；
+2、chs(中文简体,必须是gb内码或utf-8/unicode码), cht(中文繁体,必须是big5内码的ANSI码或GBK内码的utf-8/unicode码), eng(英文,必须是gb内码或utf-8/unicode码)。
+关于什么是gb, utf-8, unicode, big5, GBK等参见：[/color][/b][i][u][color=Magenta]http://bbs.seu.edu.cn/bbscon.php?bid=342&id=20321[/color][/u][/i]
+[color=Black][b]3、若PTer手中有同一电影或剧集的不同语言字幕，欢迎上传，无须打包，切勿重复。
+4、字幕翻译质量比较难界定，我们推荐TLF、YYeTs、破烂熊、謦灵风软等字幕组的作品
+5、请不要使用翻译机翻译出来的字幕，或者某些为了求快抢发的字幕。
+6、外挂字幕禁止打包放进种子里，除非始发站点已经打包，这样利于保种。
+7、如果你是在射手网等其它站点下载的字幕，可以拿来就用，不用调时间轴，也请你多花点时间把文件名和语种标识符改过来后再上传。
+8、禁止字幕里含广告信息，原则上只允许出现翻译小组名/个人名，翻译小组所属论坛名/地址，调校人名/所属论坛名/地址信息；其他无关的小组名、论坛名、QQ号、电话、URL地址等信息一律禁止出现在字幕中。
+9、违反规则的字幕，任何人都可以举报。虎踞龙蟠PT站字幕举报专帖: [/color][/b][i][u][color=Magenta]http://bbs.seu.edu.cn/bbscon.php?bid=363&id=58&ftype=11[/color][/i][/u] [color=Black][b]只有在此帖下举报的，才有奖励。
+10、举报后查证属实，一般在三天内发放奖励，最迟一周内奖励到账。
+11、未尽事宜最终解释权归虎踞龙蟠PT管理组所有。 [/color][/b]
